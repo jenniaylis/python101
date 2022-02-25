@@ -1,0 +1,1 @@
+I want to get basic understanding of python. This is me doing it.
